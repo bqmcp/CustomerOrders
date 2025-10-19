@@ -38,8 +38,3 @@ Prerequisites
 https://3c948116f241b61d1d.gradio.live/
 
 ![https://3c948116f241b61d1d.gradio.live/](./snapshots/image_F.png)
-
-
-Contact / Contribution
-----------------------
-More details available on verseAI.io and https://SQLverse.AI
