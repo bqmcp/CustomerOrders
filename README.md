@@ -33,9 +33,11 @@ Prerequisites
 
 	pip install -r requirements.txt
 
-3. Please view the application at your localhost
+3. Please view the application at:
 
-![https://localhost:7868/](./snapshots/image-2.png)
+https://3c948116f241b61d1d.gradio.live/
+
+![https://3c948116f241b61d1d.gradio.live/](./snapshots/image_F.png)
 
 
 Contact / Contribution
