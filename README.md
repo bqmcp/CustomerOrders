@@ -1,14 +1,12 @@
 # Interactive PySpark Gradio App for Data Exploration.
 
-![Customer Name](./snapshots/image.png)
+<video controls src="snapshots/PySpark-Gradio-App-demo.mp4" title="Title"></video>
 
 Interactive Gradio App for Data Exploration.
 
 PySpark + Gradio App that demonstrates transforming and exploring dataset of customers, orders and products. This repository contains two Jupyter notebooks: 
 Data Transformation using PySpark and Gradio App
 
-
-![Customer-ID](./snapshots/image-1.png)
 
 Contents
 --------
@@ -35,6 +33,6 @@ Prerequisites
 
 3. Please view the application at:
 
-https://3c948116f241b61d1d.gradio.live/
+https://174b4770a392ad7d4c.gradio.live/
 
-![https://3c948116f241b61d1d.gradio.live/](./snapshots/image_F.png)
+![gradio-app](./snapshots/image.png)
