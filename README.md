@@ -1,6 +1,10 @@
 # Interactive PySpark Gradio App for Data Exploration.
 
-<video controls src="snapshots/PySpark-Gradio-App-demo.mp4" title="Title"></video>
+
+https://github.com/user-attachments/assets/6db1e2a7-4be2-41dc-932e-b11bc96568a0
+
+
+
 
 Interactive Gradio App for Data Exploration.
 
