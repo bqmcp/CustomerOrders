@@ -20,6 +20,9 @@ Contents
 - data/
   - `Customer.xlsx`, `Orders.json`, `Products.csv` — Datasets provided by PEI.
 
+<img width="1982" height="1236" alt="image" src="https://github.com/user-attachments/assets/543fa7a0-203d-486c-ab0a-40b4fac30f18" />
+
+
 Quick start
 -----------
 Prerequisites
