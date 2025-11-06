@@ -1,0 +1,129 @@
+{
+  "age_max": 65,
+  "age_min": 18,
+  "age_range": [
+    18,
+    54
+  ],
+  "brand_safety_content_filter_levels": [
+    "FEED_STRICT"
+  ],
+  "device_platforms": [
+    "mobile",
+    "desktop"
+  ],
+  "facebook_positions": [
+    "feed",
+    "biz_disco_feed",
+    "facebook_reels",
+    "profile_feed",
+    "marketplace",
+    "story"
+  ],
+  "flexible_spec": [
+    {
+      "family_statuses": [
+        {
+          "id": "6002714398372",
+          "name": "Parents (All)"
+        }
+      ],
+      "interests": [
+        {
+          "id": "6002920953955",
+          "name": "Interiordesign (design)"
+        },
+        {
+          "id": "6002979893723",
+          "name": "Renovation(construction)"
+        },
+        {
+          "id": "6003051498644",
+          "name": "Extra SpaceStorage"
+        },
+        {
+          "id": "6003105618835",
+          "name": "Crafts(hobbies)"
+        },
+        {
+          "id": "6003132926214",
+          "name": "Furniture (homefurnishings)"
+        },
+        {
+          "id": "6003138547539",
+          "name": "Bedroom furniture (homefurnishings)"
+        },
+        {
+          "id": "6003148862840",
+          "name": "Shelf(storage)"
+        },
+        {
+          "id": "6003153995505",
+          "name": "Wardrobe"
+        },
+        {
+          "id": "6003234413249",
+          "name": "Homeimprovement (home and garden)"
+        },
+        {
+          "id": "6003253467911",
+          "name": "Modern furniture (homefurnishings)"
+        },
+        {
+          "id": "6003293328579",
+          "name": "Living room(architecture)"
+        },
+        {
+          "id": "6003401828547",
+          "name": "Room(architecture)"
+        },
+        {
+          "id": "6003470511564",
+          "name": "Do it yourself(DIY)"
+        },
+        {
+          "id": "6003486664986",
+          "name": "Closet"
+        }
+      ],
+      "life_events": [
+        {
+          "id": "6003054185372",
+          "name": "Recentlymoved"
+        }
+      ]
+    }
+  ],
+  "genders": [
+    0
+  ],
+  "geo_locations": {
+    "countries": [
+      "US"
+    ],
+    "location_types": [
+      "home",
+      "recent"
+    ]
+  },
+  "instagram_positions": [
+    "stream",
+    "profile_reels",
+    "story",
+    "explore",
+    "reels",
+    "explore_home",
+    "profile_feed"
+  ],
+  "locales": [
+    24,
+    6
+  ],
+  "publisher_platforms": [
+    "facebook",
+    "instagram"
+  ],
+  "targeting_automation": {
+    "advantage_audience": 1
+  }
+}
